@@ -11,6 +11,6 @@ package com.mycompany.ejemplojavadaniel2025;
 public class EjemploJavaDaniel2025 {
 
     public static void main(String[] args) {
-        System.out.println("hola soy Daniel Godoy");
+        System.out.println("hola soy Daniel Godoy y tengo 18 años.");
     }
 }
